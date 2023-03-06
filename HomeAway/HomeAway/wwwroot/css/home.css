@@ -1,0 +1,6 @@
+@import  "theme.css";
+
+.card {
+    border-radius: 16px;
+    overflow: hidden;
+}
