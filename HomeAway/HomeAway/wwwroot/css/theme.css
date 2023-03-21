@@ -1,0 +1,25 @@
+/* menu styling */
+.list-group-item.active {
+   
+    background-color: #0ac48c;
+    border-color: #0ac48c;
+}
+
+/* form styling */
+
+input[type="text"].form-control {
+    padding: 12px 16px  !important;
+}
+.col-form-label{
+    font-weight: 600;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #0ac48c;
+    border-color: #0ac48c;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #05a575;
+    border-color: #05a575;
+}

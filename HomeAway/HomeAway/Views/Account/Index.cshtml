@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "AccountIndex Page";
+}
+<div>
+
+@{string msg=TempData["msg"] as string;
+<p>@msg<a href="/Home/">Back</a></p>
+<p><a href="/Account/Register">Register</a></p>}
+</div>
+
+<form action="/Account/Login" method="Post">
+  <div class="form-group">
+    <label for="email">Email address</label>
+    <input type="email" class="form-control" id="email" name="email" aria-describedby="emailHelp" placeholder="Enter email">
+    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+  </div>
+  <div class="form-group">
+    <label for="pwd">Password</label>
+    <input type="password" class="form-control" id="pwd" name="pwd" placeholder="Password">
+  </div>
+    <button type="submit" class="btn btn-primary">Login</button>
+</form>
