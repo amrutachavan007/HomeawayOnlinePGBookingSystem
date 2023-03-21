@@ -1,0 +1,81 @@
+﻿@{
+  ViewData["Title"]="ShowRoomDetails Page";
+}
+
+<h1>Add New Room Details</h1>
+
+
+<form style="background-color: #ebf2fa; " action="AddRoomDetails" method="Post">
+  <div class="form-group">
+  <label for="ownerid" style="font-weight:bold;font-size:20px; ">OwnerId</label>
+  <input type="number" class="form-control" id="ownerid" name="ownerid" aria-describedby="emailHelp" placeholder="Owner Id">
+  </div>
+  <div class="form-group">
+  <label for="pname" style="font-weight:bold;font-size:20px; ">Property Name</label>
+  <input type="text" class="form-control" id="pname" name="pname" aria-describedby="emailHelp" placeholder="Property Name">
+  </div>
+<br>
+  <div class="form-group">
+    <label for="floorno" style="font-weight:bold;font-size:20px; ">Floor No </label>
+    <input type="number" class="form-control" id="floorno" name="floorno"aria-describedby="emailHelp" placeholder="floor No">
+    
+  </div>
+  <br>
+   <div class="form-group">
+    <label for="rent" style="font-weight:bold;font-size:20px; ">Room Rent</label>
+    <input type="number" class="form-control" id="rent" name="rent"aria-describedby="emailHelp" placeholder="Rent">
+  </div>
+   <br>
+   <div class="form-group">
+    <label for="deposit" style="font-weight:bold;font-size:20px; ">Room Deposit</label>
+    <input type="number" class="form-control" id="deposit" name="deposit"aria-describedby="emailHelp" placeholder="Deposit">
+  </div>
+<br>
+<div class="form-group">
+    <label for="facility" style="font-weight:bold;font-size:20px; ">Room Facility</label>
+ <input type="text" class="form-control" id="facility" name="facility"aria-describedby="emailHelp" placeholder="Facility">
+ </div>
+<div class="form-group">
+    <label for="address" style="font-weight:bold;font-size:20px; ">Room Address</label>
+ <input type="text" class="form-control" id="address" name="address"aria-describedby="emailHelp" placeholder="address">
+ </div> 
+ <br>
+ <label  for="gender-select"   style="font-weight:bold;font-size:20px; ">Gender</label>
+ <select id="gender-select" name="gender">
+  <option value="male">Male</option>
+  <option value="female">Female</option>
+  <option value="other">Other</option>
+</select>
+  <label for="roomtype" style="font-weight:bold;font-size:20px; ">Room Type</label>
+    <select class="form-select" id="roomtype" name="roomtype">
+    <option>Single</option>
+    <option>Double Sharing</option>
+    <option>Three Sharing</option>
+    <option>Four Sharing</option>
+</select>
+
+ <div>
+  <label for="status" style="font-weight:bold;font-size:20px; ">Status</label>
+    <select class="form-select" id="status" name="status" >
+    <option>Booked</option>
+    <option>Available</option>
+</select>
+ </div>
+ <div class="form-group">
+    <label for="url1" style="font-weight:bold;font-size:20px; ">Image-1</label>
+ <input type="text" class="form-control" id="url1" name="url1"aria-describedby="emailHelp" placeholder="Add Image url">
+ </div>
+ <div class="form-group">
+    <label for="url2" style="font-weight:bold;font-size:20px; ">Image-2</label>
+ <input type="text" class="form-control" id="url2" name="url2"aria-describedby="emailHelp" placeholder="Add Image url">
+ </div>
+ <div class="form-group">
+    <label for="url3" style="font-weight:bold;font-size:20px; ">Image-3</label>
+ <input type="text" class="form-control" id="url3" name="url3"aria-describedby="emailHelp" placeholder="Add Image url">
+ </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+<br>
+<a href="/Admin/Index">
+    <button class="btn-btn-primary">Back</button>
+</a>

@@ -1,0 +1,24 @@
+D:\DOT NET\HomeAway\BOL\bin\Debug\net7.0\BOL.deps.json
+D:\DOT NET\HomeAway\BOL\bin\Debug\net7.0\BOL.dll
+D:\DOT NET\HomeAway\BOL\bin\Debug\net7.0\BOL.pdb
+D:\DOT NET\HomeAway\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+D:\DOT NET\HomeAway\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET\HomeAway\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+D:\DOT NET\HomeAway\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+D:\DOT NET\HomeAway\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+D:\DOT NET\HomeAway\BOL\obj\Debug\net7.0\BOL.dll
+D:\DOT NET\HomeAway\BOL\obj\Debug\net7.0\refint\BOL.dll
+D:\DOT NET\HomeAway\BOL\obj\Debug\net7.0\BOL.pdb
+D:\DOT NET\HomeAway\BOL\obj\Debug\net7.0\ref\BOL.dll
+F:\FinalProjectData\HomeAway\BOL\bin\Debug\net7.0\BOL.deps.json
+F:\FinalProjectData\HomeAway\BOL\bin\Debug\net7.0\BOL.dll
+F:\FinalProjectData\HomeAway\BOL\bin\Debug\net7.0\BOL.pdb
+F:\FinalProjectData\HomeAway\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+F:\FinalProjectData\HomeAway\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+F:\FinalProjectData\HomeAway\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+F:\FinalProjectData\HomeAway\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+F:\FinalProjectData\HomeAway\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+F:\FinalProjectData\HomeAway\BOL\obj\Debug\net7.0\BOL.dll
+F:\FinalProjectData\HomeAway\BOL\obj\Debug\net7.0\refint\BOL.dll
+F:\FinalProjectData\HomeAway\BOL\obj\Debug\net7.0\BOL.pdb
+F:\FinalProjectData\HomeAway\BOL\obj\Debug\net7.0\ref\BOL.dll

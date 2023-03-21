@@ -1,0 +1,437 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\HomeAway.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HomeAway.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\css\\bookroom.css",
+      "PackagePath": "staticwebassets\\css\\bookroom.css"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\css\\theme.css",
+      "PackagePath": "staticwebassets\\css\\theme.css"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\1234.jpeg",
+      "PackagePath": "staticwebassets\\images\\1234.jpeg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\bed1.jpg",
+      "PackagePath": "staticwebassets\\images\\bed1.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\bed10.jpg",
+      "PackagePath": "staticwebassets\\images\\bed10.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\bed11.jpg",
+      "PackagePath": "staticwebassets\\images\\bed11.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\bed12.jpg",
+      "PackagePath": "staticwebassets\\images\\bed12.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\bed2.jpg",
+      "PackagePath": "staticwebassets\\images\\bed2.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\bed3.jpg",
+      "PackagePath": "staticwebassets\\images\\bed3.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\bed4.jpg",
+      "PackagePath": "staticwebassets\\images\\bed4.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\bed5.jpg",
+      "PackagePath": "staticwebassets\\images\\bed5.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\bed6.jpg",
+      "PackagePath": "staticwebassets\\images\\bed6.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\bed7.jpg",
+      "PackagePath": "staticwebassets\\images\\bed7.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\bed8.jpg",
+      "PackagePath": "staticwebassets\\images\\bed8.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\bed9.jpg",
+      "PackagePath": "staticwebassets\\images\\bed9.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\build1.jpg",
+      "PackagePath": "staticwebassets\\images\\build1.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\build10.jpg",
+      "PackagePath": "staticwebassets\\images\\build10.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\build11.jpg",
+      "PackagePath": "staticwebassets\\images\\build11.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\build12.jpg",
+      "PackagePath": "staticwebassets\\images\\build12.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\build2.jpg",
+      "PackagePath": "staticwebassets\\images\\build2.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\build3.jpg",
+      "PackagePath": "staticwebassets\\images\\build3.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\build4.jpg",
+      "PackagePath": "staticwebassets\\images\\build4.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\build5.jpg",
+      "PackagePath": "staticwebassets\\images\\build5.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\build6.jpg",
+      "PackagePath": "staticwebassets\\images\\build6.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\build7.jpg",
+      "PackagePath": "staticwebassets\\images\\build7.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\build8.jpg",
+      "PackagePath": "staticwebassets\\images\\build8.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\build9.jpg",
+      "PackagePath": "staticwebassets\\images\\build9.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\furn1.jpg",
+      "PackagePath": "staticwebassets\\images\\furn1.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\furn10.jpg",
+      "PackagePath": "staticwebassets\\images\\furn10.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\furn11.jpg",
+      "PackagePath": "staticwebassets\\images\\furn11.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\furn12.jpg",
+      "PackagePath": "staticwebassets\\images\\furn12.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\furn2.jpg",
+      "PackagePath": "staticwebassets\\images\\furn2.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\furn3.jpg",
+      "PackagePath": "staticwebassets\\images\\furn3.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\furn4.jpg",
+      "PackagePath": "staticwebassets\\images\\furn4.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\furn5.jpg",
+      "PackagePath": "staticwebassets\\images\\furn5.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\furn6.jpg",
+      "PackagePath": "staticwebassets\\images\\furn6.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\furn7.jpg",
+      "PackagePath": "staticwebassets\\images\\furn7.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\furn8.jpg",
+      "PackagePath": "staticwebassets\\images\\furn8.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\furn9.jpg",
+      "PackagePath": "staticwebassets\\images\\furn9.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\logo1.jpg",
+      "PackagePath": "staticwebassets\\images\\logo1.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\images\\logo2.jpg",
+      "PackagePath": "staticwebassets\\images\\logo2.jpg"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "F:\\FinalProjectData\\HomeAway\\HomeAway\\wwwroot\\lib\\jquery\\dist\\payment.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\payment.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.HomeAway.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.HomeAway.props",
+      "PackagePath": "build\\HomeAway.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.HomeAway.props",
+      "PackagePath": "buildMultiTargeting\\HomeAway.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.HomeAway.props",
+      "PackagePath": "buildTransitive\\HomeAway.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

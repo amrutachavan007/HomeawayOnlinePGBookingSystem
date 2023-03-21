@@ -1,0 +1,76 @@
+/* menu styling */
+.list-group-item.active {
+    background-color: #0f9b71;
+    border-color:  #0f9b71;
+}
+
+/* form styling */
+
+input.form-control {
+    padding: 12px 16px  !important;
+    width: 600px;
+}
+
+
+.col-form-label{
+    font-weight: 600;
+    text-align: left;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #0ac48c;
+    border-color: #0ac48c;
+    height: 40px;
+    width: 180px;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #05a575;
+    border-color: #05a575;
+}
+
+.bg-container
+{
+    background-image: url('/images/build12.jpg');
+    height:150vh;
+    width: 100%;
+    background-size: cover;
+    text-align: center;
+    font-size: 22px;
+    color: black;
+    padding: 25px;
+}
+
+.card{
+    border-radius: 16px;
+    overflow: hidden;
+    
+}
+
+.Box{
+    text-align: center;
+    height: 600px;
+    width: 600px;
+    border: black;
+    border-width: 5px;
+    
+}
+
+.searchbar{
+    padding: 12px 16px  !important;
+    width: 300px;
+}
+
+.form-select {
+    padding: 12px 16px  !important;
+    width: 600px;
+}
+
+.room-container{
+    background-image: url('/images/build12.jpg');
+    height: 500vh;
+    width: 500vh;
+    background-size: cover;
+    font-size: 22px;
+    color: black;
+}

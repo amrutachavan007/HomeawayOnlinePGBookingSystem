@@ -1,0 +1,44 @@
+﻿@using BOL;
+@using System.Collections.Generic;
+@{
+    ViewData["Title"] = "Room Details Page search";
+}
+
+<h1>Search By Address</h1>
+<table border="2" class="table table-sm">
+    <th>RoomId</th>
+    <th>PropertyName</th>
+    <th>Floorno </th>
+    <th>RoomStatus</th>
+    <th>RoomRent</th>
+    <th>RoomDeposite</th>
+    <th>RoomFacilities</th>
+    <th>RoomAddress</th>
+    <th>Gender</th>
+    <th>RoomType</th>
+    <th>URL1</th>
+    <th>URL2</th>
+    <th>URL3</th>
+    
+    @{
+        List<RoomDetails> rlist=ViewData["rlist"] as List<RoomDetails>;
+            foreach(RoomDetails r in rlist){
+                <tr>
+                    <td>@r.RoomId</td>
+                    <td>@r.PropertyName</td>
+                    <td>@r.FloorNo</td>
+                    <td>@r.RoomStatus</td>
+                    <td>@r.RoomRent</td>
+                    <td>@r.RoomDeposit</td>
+                    <td>@r.RoomFacility</td>
+                    <td>@r.RoomAddress</td>
+                    <td>@r.Gender</td>
+                    <td>@r.RoomType</td>
+                    <td>@r.URL1</td>
+                    <td>@r.URL2</td>
+                    <td>@r.URL3</td>
+                    <td>@Html.ActionLink("Book","BookRoom",new {RoomId=r.RoomId},null)</td>
+                </tr>
+            }
+    }
+</table>

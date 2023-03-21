@@ -1,0 +1,64 @@
+﻿@using BOL;
+<head>
+    <link rel="stylesheet" href="~/css/bookroom.css" />
+</head>
+@{
+    Customer customer=ViewData["customer"] as Customer;
+    RoomDetails room=ViewData["room"] as RoomDetails;
+}
+<body>
+    <form action="/Payment/PaymentPage1" method="Post">
+        <div class="bookroomwrapper">
+            <div class="container py-5 position-relative z-index-1">
+                <h1 class="mb-5">Book Your Room</h1>
+
+
+                <div class="row">
+                    <div class="col-7">
+                        <div class="mb-4 row">
+                            <label for="id1" class="col-sm-3 col-form-label">Customer Id</label>
+                            <div class="col-sm-9">
+                                <input type="number" class="form-control" id="id1" name="id1" value=@customer.CustomerId>
+                            </div>
+                        </div>
+                        <div class="mb-4 row">
+                            <label for="cname" class="col-sm-3 col-form-label">Customer Name</label>
+                            <div class="col-sm-9">
+                                <input type="text" class="form-control" id="cname" name="cname" value=@customer.CustomerName>
+                            </div>
+                        </div>
+                        <div class="mb-4 row">
+                            <label for="rno" class="col-sm-3 col-form-label">Room Number</label>
+                            <div class="col-sm-9">
+                                <input type="number" class="form-control" id="rno" name="rno" value=@room.RoomId>
+                            </div>
+                        </div>
+                        <div class="mb-4 row">
+                            <label for="pname" class="col-sm-3 col-form-label">Property Name</label>
+                            <div class="col-sm-9">
+                                <input type="text" class="form-control" id="pname" name="pname" value=@room.PropertyName>
+                            </div>
+                        </div>
+                        
+                        <div class="mb-4 row">
+                            <label for="amount" class="col-sm-3 col-form-label">Booking Amount</label>
+                            <div class="col-sm-9">
+                                <input type="number" class="form-control" id="amount" name="amount" value=@room.RoomRent>
+                            </div>
+                        </div>
+
+                        <div class="mb-4 row">
+                            <label for="date" class="col-sm-3 col-form-label">Booking Date</label>
+                            <div class="col-sm-9">
+                                <input type="date" class="form-control" id="date" name="date" placeholder="Select date">
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Next</button>
+                    </div>
+
+                    <div class="col-5"></div>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>

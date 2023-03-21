@@ -1,0 +1,51 @@
+﻿@using BOL;
+@{
+    ViewData["Title"] = "RegisterOwner Page";
+}
+
+<div class="bg-container justify-content-center">
+  <h1 class="p-2"> Update Owner Details<h1>
+    
+<form action="UpdateOwner" method="Post">
+  @{
+      Owner owner=ViewData["owner"] as Owner;
+  }
+  <div class="form-group row">
+    <label for="id1" class="col-sm-2 col-form-label" style="font-weight:bold;font-size:20px;"></label>
+    <div class="col-sm-10">
+      <input type="text" class="form-control" id="id1" name="id1" value="@owner.OwnerId" hidden>
+    </div>
+  </div><br>
+    <div class="form-group row">
+    <label for="oname" class="col-sm-2 col-form-label" style="font-weight:bold;font-size:20px;">Owner Name</label>
+    <div class="col-sm-10">
+      <input type="text" class="form-control" id="oname" name="oname" value="@owner.OwnerName">
+    </div>
+  </div><br>
+  <div class="form-group row">
+    <label for="contactNo" class="col-sm-2 col-form-label" style="font-weight:bold;font-size:20px;" >Contact Details</label>
+    <div class="col-sm-10">
+      <input type="tel" class="form-control" id="contactNo" name="contactNo" pattern="[7-9]{1}[0-9]{9}" value="@owner.OwnerContactNo">
+    </div>
+    </div><br>
+    <div class="form-group row">
+    <label for="email" class="col-sm-2 col-form-label" style="font-weight:bold;font-size:20px;">Email</label>
+    <div class="col-sm-10">
+      <input type="email" class="form-control" id="email" name="email" value="@owner.OwnerEmail">
+    </div>
+    </div><br>
+
+    <div class="form-group row ">
+    <div class="col-sm-10">
+      <button type="submit" class="btn btn-primary m-3" >Update</button>
+    </div>
+  </div>
+</form>
+</div>
+<div class="col-sm-10">
+  <a href="/Admin/Index">
+    <button class="btn btn-primary ">Back</button>
+      </a>
+    </div>  
+</div>
+

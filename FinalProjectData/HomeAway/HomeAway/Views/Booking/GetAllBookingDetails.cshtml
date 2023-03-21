@@ -1,0 +1,35 @@
+@using BOL;
+@using System.Collections.Generic;
+@{
+    ViewData["Title"] = "Customer Details Page";
+}
+<div class="bg-container">
+<h1 class="p-4">ALL Booking Details</h1>
+<table border="2" class="table table-sm">
+    <th>Customer Id</th>
+    <th>Customer Name</th>
+    <th>Customer Contact Number</th>
+    <th>Customer Email</th>
+    @{  
+        List<Booking> blist=ViewData["bookingDetails"] as List<Booking>;
+            if(blist is not null){
+            foreach(Booking b in blist){
+                <tr>
+                    <td>@b.CustomerId</td>
+                    <td>@b.RoomId</td>
+                    <td>@b.BookingAmount</td>
+                    <td>@b.Date</td>
+                </tr>
+            }
+            }
+            else{
+                <h1>Till none of the room is booked</h1>
+            }
+    }
+</table>
+
+<br>
+<a href="/Admin/Index">
+    <button class="btn btn-primary mt-4">Back</button>
+</a>
+</div>

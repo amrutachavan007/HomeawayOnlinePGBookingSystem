@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Admin Page";
+    <head>
+         <link rel="stylesheet" href="~/css/theme.css"/>
+        </head>
+}
+<div class="bg-container">
+<h1 class="p-4">Welcome to HomeAway Admin Panel</h1>
+<div class="homewraper">
+<div >
+<a class="Box" data-bs-toggle="offcanvas" href="#offcanvasExample" role="button" aria-controls="offcanvasExample">
+  <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="currentColor" class="bi bi-text-right" viewBox="0 0 16 16">
+  <path fill-rule="evenodd" d="M6 12.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zm-4-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5zm4-3a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zm-4-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5z"/>
+</svg>
+</a>
+<p>Menu</p>
+</div>
+<div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
+  <div class="offcanvas-header">
+    <h1 class="offcanvas-title" id="offcanvasExampleLabel">Admin</h1>
+    <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+  </div>
+  <div class="offcanvas-body">
+   <div class="list-group">
+  <a href="/Customer/ShowCustomerDetails" class="list-group-item list-group-item-action">Show All Customer Details</a>
+  <a href="/RoomDetails/ShowRoomDetails" class="list-group-item list-group-item-action">Show All Room Details</a>
+  <a href="/RoomDetails/ShowRoomDetails" class="list-group-item list-group-item-action">Edit Room Details</a>
+  <a href="/Owner/ShowOwnerDetails" class="list-group-item list-group-item-action">Show All Owner Details</a>
+  <a href="/Owner/AddOwner" class="list-group-item list-group-item-action">Add Property Owner Details</a>
+  <a href="/Owner/ShowOwnerDetails" class="list-group-item list-group-item-action">Edit Owner Details</a>
+  <a href="/Owner/ShowOwnerDetails" class="list-group-item list-group-item-action">Delete Owner Details</a>
+  <a href="/Booking/GetAllBookingDetails" class="list-group-item list-group-item-action">Show All Booking Details</a>
+</div>
+  </div>
+</div>
+    </div>
+</html>

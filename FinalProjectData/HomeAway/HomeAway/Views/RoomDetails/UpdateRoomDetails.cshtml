@@ -1,0 +1,113 @@
+﻿@using BOL;
+@{
+  ViewData["Title"] = "UpdateRoomDetails Page";
+   <head>
+    <link rel="stylesheet" href="~/css/theme.css"/>
+</head>
+}
+<div class="room-container">
+<h1 class="p-4">Update Room Details</h1>
+
+<form style="background-color: #ebf2fa; " action="UpdateRoom" method="Post">
+ @{
+      RoomDetails roomDetails=ViewData["room"] as RoomDetails;
+ }
+ <div class="Box p-5">
+   <div class="form-group">
+    <label for="ownerid" style="font-weight:bold;font-size:20px; ">Owner Id</label>
+    <input type="number" class="form-control p-5" id="ownerid" name="ownerid" value="@roomDetails.OwnerId">
+  </div>
+  <br>
+ <div class="form-group">
+    <label for="roomid" style="font-weight:bold;font-size:20px ; ">Room id </label>
+    <input type="number" class="form-control" id="roomid" name="roomid" value="@roomDetails.RoomId" readonly>
+  </div><br>
+
+  
+  <div class="form-group">
+    <label for="pname" style="font-weight:bold;font-size:20px; ">Property Name</label>
+    <input type="text" class="form-control" id="pname" name="pname" value="@roomDetails.PropertyName">
+  </div><br>
+
+  <div class="form-group">
+    <label for="floorno" style="font-weight:bold;font-size:20px; ">Floor No </label>
+    <input type="number" class="form-control" id="floorno" name="floorno" value="@roomDetails.FloorNo">
+  </div><br>
+
+  <div class="form-group">
+    <label for="rent" style="font-weight:bold;font-size:20px; ">Room Rent</label>
+    <input type="number" class="form-control" id="rent" name="rent" value="@roomDetails.RoomRent">
+  </div><br>
+
+  <div class="form-group">
+    <label for="deposit" style="font-weight:bold;font-size:20px; ">Room Deposit</label>
+    <input type="number" class="form-control" id="deposit" name="deposit" value="@roomDetails.RoomDeposit">
+  </div><br>
+
+  <div class="form-group">
+    <label for="facility" style="font-weight:bold;font-size:20px; ">Room Facility</label>
+    <input type="text" class="form-control" id="facility" name="facility" value="@roomDetails.RoomFacility">
+  </div><br>
+
+  <div class="form-group">
+    <label for="address" style="font-weight:bold;font-size:20px; ">Room Address</label>
+    <input type="text" class="form-control" id="address" name="address" value="@roomDetails.RoomAddress">
+  </div><br>
+
+  <div class="form-group">
+    <label for="gender" style="font-weight:bold;font-size:20px; ">Gender</label>
+    <select class="form-select" id="gender" name="gender" value="@roomDetails.Gender">
+      <option>Male</option>
+      <option>Female</option>
+      <option>Other</option>
+    </select>
+  </div>
+     
+  <div class="form-group">
+      <label for="roomtype" style="font-weight:bold;font-size:20px; ">Room Type</label>
+      <select class="form-select" id="roomtype" name="roomtype" value="@roomDetails.RoomType">
+        <option>Single</option>
+        <option>Double Sharing</option>
+        <option>Three Sharing</option>
+        <option>Four Sharing</option>
+      </select>
+  </div>
+
+  <div class="form-group">
+    <label for="status" style="font-weight:bold;font-size:20px; ">Status</label>
+    <select class="form-select" id="status" name="status" value="@roomDetails.RoomStatus">
+      <option>Booked</option>
+      <option>Available</option>
+    </select>
+  </div>
+
+  <div class="form-group">
+    <label for="url1" style="font-weight:bold;font-size:20px; ">Image-1</label>
+    <input type="text" class="form-control" id="url1" name="url1" aria-describedby="emailHelp"
+      value="@roomDetails.URL1">
+  </div>
+
+  <div class="form-group">
+    <label for="url2" style="font-weight:bold;font-size:20px; ">Image-2</label>
+    <input type="text" class="form-control" id="url2" name="url2" aria-describedby="emailHelp"
+      value="@roomDetails.URL2">
+  </div>
+
+  <div class="form-group">
+    <label for="url3" style="font-weight:bold;font-size:20px; ">Image-3</label>
+    <input type="text" class="form-control" id="url3" name="url3" aria-describedby="emailHelp"
+      value="@roomDetails.URL3">
+  </div><br>
+  
+
+  <button type="submit"  class="btn btn-primary" style="text-align:center">Submit</button>
+</form>
+</div>
+
+</div>
+<div class="col-sm-10">
+  <a href="/Admin/Index">
+    <button class="btn btn-primary ">Back</button>
+  </a>
+    </div>  
+</div>

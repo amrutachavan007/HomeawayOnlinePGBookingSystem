@@ -1,0 +1,145 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HomeAway
+build_property.RootNamespace = HomeAway
+build_property.ProjectDir = F:\FinalProjectData\HomeAway\HomeAway\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\FinalProjectData\HomeAway\HomeAway
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/Account/Welcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxXZWxjb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/Admin/Index11.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXgxMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/Booking/BookRoom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xCb29rUm9vbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/Booking/GetAllBookingDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xHZXRBbGxCb29raW5nRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/Customer/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/Customer/RegisterCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcUmVnaXN0ZXJDdXN0b21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/Customer/ShowCustomerDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcU2hvd0N1c3RvbWVyRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/Customer/UpdateCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcVXBkYXRlQ3VzdG9tZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/Home/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0VXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/Home/OffCanvas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPZmZDYW52YXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/Owner/AddOwner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJcQWRkT3duZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/Owner/ShowOwnerDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJcU2hvd093bmVyRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/Owner/UpdateOwner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJcVXBkYXRlT3duZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/Payment/PaymentPage1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFxQYXltZW50UGFnZTEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/RoomDetails/AddRoomDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbURldGFpbHNcQWRkUm9vbURldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/RoomDetails/SearchRoom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbURldGFpbHNcU2VhcmNoUm9vbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/RoomDetails/SearchRoomDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbURldGFpbHNcU2VhcmNoUm9vbURldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/RoomDetails/SearchRoomDetails1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbURldGFpbHNcU2VhcmNoUm9vbURldGFpbHMxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/RoomDetails/ShowRoomDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbURldGFpbHNcU2hvd1Jvb21EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/RoomDetails/UpdateRoomDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbURldGFpbHNcVXBkYXRlUm9vbURldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FinalProjectData/HomeAway/HomeAway/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ke74jf9804
